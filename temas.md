@@ -7,4 +7,6 @@ Me encanta viajar, es una de mis aficiones, porque me parece muy interesante pod
 Buscando en GitHub he encontrado (https://github.com/project-travel-mate/Travel-Mate)
 un programa en el que se habla de los distintos destinos y reservas que se pueden hacer para un viaje.
 
+<img width="1400" height="575" alt="image" src="https://github.com/user-attachments/assets/a621ffae-1048-43a9-ade8-d6c0543a04ee" />
+
 ---
