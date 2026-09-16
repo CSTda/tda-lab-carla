@@ -2,7 +2,6 @@
 
 **[2º Bach C] · Curso 2026-2027**
 
-Aquí voy guardando lo que hago en TDA II
 
 ---
 
