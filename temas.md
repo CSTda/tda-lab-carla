@@ -17,4 +17,4 @@ Lionel Andrés Messi Cuccittini ha ganado el Premio Princesa de Asturias de los 
 
 [Su página en la Fundación](https://www.fpa.es/es/premios-princesa-de-asturias/premiados/2026-leo-messi/?texto=trayectoria).
 
-Imagen: BRYAN BERLIN,  [Wikimedia Commons](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Leo_Messi_Argentina_v_Egypt_7_July_2026-1.jpg/500px-Leo_Messi_Argentina_v_Egypt_7_July_2026-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail?download)
+Esta es una imagen del premiado cuyo autor es BRYAN BERLIN, [Wikimedia Commons](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Leo_Messi_Argentina_v_Egypt_7_July_2026-1.jpg/500px-Leo_Messi_Argentina_v_Egypt_7_July_2026-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail?download)
