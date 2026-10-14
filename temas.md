@@ -27,6 +27,6 @@ Lionel Andrés Messi Cuccittini ha ganado el Premio Princesa de Asturias de los 
 
 Ada Lovelace fue una matemática inglesa que vivió hace casi 200 años. Trabajó con Charles Babbage en el diseño de una máquina que podía hacer cálculos y escribió instrucciones para ella. Por eso se la considera una de las primeras programadoras de la historia. El Día de Ada Lovelace se celebra el segundo martes de octubre para recordar sus aportaciones y reconocer el papel de las mujeres en la ciencia y la tecnología. 
 
-![Retrato de Ada Lovelace ](capturas/ada.jpg)
+![Retrato de Ada Lovelace ](capturas/ada.jpg){: width="300"}
 
 *Retrato de Ada Lovelace. Imagen: Alfred Edward Chalon, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ada_Lovelace_portrait.jpg)*
