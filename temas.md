@@ -25,7 +25,7 @@ Lionel Andrés Messi Cuccittini ha ganado el Premio Princesa de Asturias de los 
 
 ### 14/10 · Ada Lovelace
 
-Ada Lovelace fue una matemática inglesa que vivió hace casi 200 años. Trabajó con Charles Babbage en el diseño de una máquina que podía hacer cálculos y escribió instrucciones para ella. Por eso se la considera una de las primeras programadoras de la historia. El Día de Ada Lovelace se celebra el segundo martes de octubre para recordar sus aportaciones y reconocer el papel de las mujeres en la ciencia y la tecnología. 
+Ada Lovelace fue una matemática inglesa que vivió en el siglo XIX. Le gustaban mucho las matemáticas y trabajó con Charles Babbage en una máquina que podía hacer cálculos. En 1843 escribió instrucciones para esa máquina, por lo que muchas personas la consideran la primera programadora de la historia. Puedes conocer más sobre ella en Ada Lovelace en Wikipedia. Su día se celebra el segundo martes de octubre para recordar su trabajo y reconocer a las mujeres que contribuyen a la ciencia y la tecnología. Podemos encontrar más información aquí, [Ada Lovelace en Wikipedia](https://es.wikipedia.org/wiki/Ada_Lovelace)
 
 ![Retrato de Ada Lovelace ](capturas/ada.jpg){: width="300"}
 
