@@ -49,6 +49,8 @@ La Voyager 1 es una sonda espacial de la NASA lanzada el 5 de septiembre de 1977
 | Velocidad | 60.884 km/h |
 | Lo que tarda su señal en llegar | 24 horas |
 | Años de viaje | 49 años |
+
+
 !Sonda espacial Voyager 1{: width="300"} La sonda espacial Voyager 1. Imagen: NASA/JPL-Caltech, Wikimedia Commons
 
 Mi Disco de Oro 2026
