@@ -35,22 +35,24 @@ Ada Lovelace fue una matemática inglesa que vivió en el siglo XIX. Le gustaban
 ---
 
 
-### 27/11 · Voyager 1
-La Voyager 1 es una sonda espacial de la NASA que fue lanzada el 5 de septiembre de 1977 para explorar los planetas exteriores. Actualmente es el objeto fabricado por humanos que más lejos ha llegado. El 18 de noviembre de 2026 alcanzó la distancia de un día-luz de la Tierra, por lo que una señal tarda unas 24 horas en llegar. Una curiosidad es que lleva un Disco de Oro con sonidos, imágenes y saludos de nuestro planeta.
+###
+27/11 · Voyager 1
+La Voyager 1 es una sonda espacial de la NASA lanzada el 5 de septiembre de 1977 para explorar los planetas exteriores. Es el objeto fabricado por humanos que más lejos ha llegado. El 18 de noviembre de 2026 alcanzó una distancia de un día-luz de la Tierra, por lo que su señal tarda aproximadamente 24 horas en llegar. Una curiosidad es que lleva un Disco de Oro con imágenes, sonidos y saludos de nuestro planeta.
 
-[Voyager 1 en Wikipedia](https://es.wikipedia.org/wiki/Voyager_1)
+Voyager 1 en Wikipedia
 
 
-Dato	Voyager 1
-Lanzamiento	5 de septiembre de 1977
-Distancia a la Tierra	25.919.150.706 km
-Velocidad	60.884 km/h
-Lo que tarda su señal en llegar	24 horas
-Años de viaje	49 años
-!Sonda espacial Voyager 1{: width="300"} La sonda espacial Voyager. Imagen: NASA/JPL-Caltech, Wikimedia Commons
+| Dato | Voyager 1 |
+|------|-----------|
+| Lanzamiento | 5 de septiembre de 1977 |
+| Distancia a la Tierra | 25.919.150.706 km |
+| Velocidad | 60.884 km/h |
+| Lo que tarda su señal en llegar | 24 horas |
+| Años de viaje | 49 años |
+!Sonda espacial Voyager 1{: width="300"} La sonda espacial Voyager 1. Imagen: NASA/JPL-Caltech, Wikimedia Commons
 
 Mi Disco de Oro 2026
 
 Lo que pondría: una fotografía de la Tierra desde el espacio, la canción Imagine de John Lennon y la frase «Aunque seamos diferentes, todos compartimos el mismo planeta».
 En qué idioma: español e inglés.
-En qué formato: un disco digital con imágenes, audio y texto.                                          
+En qué formato: un disco digital con imágenes, audio y texto.
