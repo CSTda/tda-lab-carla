@@ -50,8 +50,7 @@ La Voyager 1 es una sonda espacial de la NASA lanzada el 5 de septiembre de 1977
 | Años de viaje | 49 años |
 
 
-![Sonda espacial Voyager 1](capturas/voyager.jpg){: width="300"}
-*La sonda espacial Voyager 1. Imagen: NASA/JPL-Caltech, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Voyager.jpg)*
+![Sonda espacial Voyager 1](capturas/Voyager.jpg){: width="300"}
 
 Mi Disco de Oro 2026
 
