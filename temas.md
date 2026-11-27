@@ -52,8 +52,10 @@ La Voyager 1 es una sonda espacial de la NASA lanzada el 5 de septiembre de 1977
 
 <img src="capturas/Voyager.jpg" alt="Sonda espacial Voyager 1" width="300">
 
-Mi Disco de Oro 2026
+**Mi Disco de Oro 2026**
 
-Lo que pondría: una fotografía de la Tierra desde el espacio, la canción Imagine de John Lennon y la frase «Aunque seamos diferentes, todos compartimos el mismo planeta».
-En qué idioma: español e inglés.
-En qué formato: un disco digital con imágenes, audio y texto.
+- **Lo que pondría:** una fotografía de la Tierra desde el espacio, la canción Imagine de John Lennon y la frase «Aunque seamos diferentes, todos compartimos el mismo planeta».
+- **En qué idioma:** español e inglés.
+- **En qué formato:** un disco digital con imágenes, audio y texto.
+
+---
