@@ -38,7 +38,7 @@ Ada Lovelace fue una matemática inglesa que vivió en el siglo XIX. Le gustaban
 ### 27/11 · Voyager 1
 La Voyager 1 es una sonda espacial de la NASA que fue lanzada el 5 de septiembre de 1977 para explorar los planetas exteriores. Actualmente es el objeto fabricado por humanos que más lejos ha llegado. El 18 de noviembre de 2026 alcanzó la distancia de un día-luz de la Tierra, por lo que una señal tarda unas 24 horas en llegar. Una curiosidad es que lleva un Disco de Oro con sonidos, imágenes y saludos de nuestro planeta.
 
-Voyager 1 en Wikipedia
+[Voyager 1 en Wikipedia](https://es.wikipedia.org/wiki/Voyager_1)
 
 
 Dato	Voyager 1
